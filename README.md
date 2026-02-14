@@ -25,7 +25,7 @@ I'm Criz, a BSIT student
 <table align="center">
   <tr>
     <td align="center" width="280" style="padding: 15px; margin: 10px; border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2);">
-      <h3>🐾 Pet Owner Vaccination System</h3>
+      <h3>🐾 Pet vaccination system</h3>
       <p>Web-based computerized vaccination registration & monitoring system for pets.</p>
       <a href="https://ph.pawnec.com/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Site-EE0979?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site" />
