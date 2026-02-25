@@ -1,70 +1,73 @@
 <div align="center">
 
-</div>
+# Hi There! I'm Criz 👋 👨‍💻
+**BSIT Student | IT Support @ Sterling Global | Lead Full Stack Developer**
 
-## Hi There! 👨‍💻
-I'm Criz, a BSIT student  
-- I am currently a 4th year college student and also working in IT Support at Sterling Global Call Center.
-- A calm, logical, and creative thinker with leadership skills.
-  
----
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="600" />
+</p>
 
 ---
 
-## 💼 Latest Projects
+### 🚀 About Me
+- 🎓 **Senior BSIT Student** with a focus on Full Stack Development.
+- 🛠️ **IT Support Specialist** at Sterling Global Call Center, bridging technical support and software engineering.
+- 💡 **Logical & Creative Thinker**: I enjoy solving complex problems with clean, efficient code.
+- 🤝 **Proven Leader**: Passionate about leading development teams to deliver high-quality capstone projects.
+
+---
+
+### 💼 Featured Capstone Project
 
 <table align="center">
   <tr>
-    <td align="center" width="280" style="padding: 15px; margin: 10px; border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2);">
-      <h3>🐾 Pet vaccination system</h3>
-      <p>Web-based computerized vaccination registration & monitoring system for pets.</p>
-      <a href="https://ph.pawnec.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20Site-EE0979?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site" />
+    <td align="center" width="400" style="padding: 20px; border-radius: 12px; border: 1px solid #FF7D44;">
+      <h3>🐾 PawCare Management System</h3>
+      <p>A comprehensive web-based computerized system for pet registration, vaccination monitoring, and appointment scheduling.</p>
+      <div style="margin: 10px 0;">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </div>
+      <a href="https://github.com/Crizneil/pawcare-capstone" target="_blank">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
       </a>
-    </td>
-    <td align="center" width="280" style="padding: 15px; margin: 10px; border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2);">
-      <h3>🚧 Coming Soon</h3>
-      <p>Stay tuned for more exciting projects!</p>
-      <img src="https://img.shields.io/badge/Under_Construction-AAAAAA?style=for-the-badge" alt="Under Construction" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center" style="font-size:1.2em;">
-  <a href="https://www.facebook.com/share/16ZZ7svWmG/" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="#" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://ph.pawnec.com/" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Capstone_Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="Capstone Project" />
-  </a>
-</p>
-
----
-
-## 🌗 Dark Mode Toggle
+### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Crizneil/Crizneil" target="_blank">
-    <img src="https://img.shields.io/badge/Dark%20Mode-Enabled-000000?style=for-the-badge&logo=github&logoColor=white" alt="Dark Mode Toggle" />
+  <a href="https://www.facebook.com/share/16ZZ7svWmG/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Crizneil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.figma.com/@crizneilbucio" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
 </p>
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ⚙️ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Criz's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crizneil&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 </div>
