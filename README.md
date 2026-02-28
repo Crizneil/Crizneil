@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi There! I'm Criz 👋 👨‍💻
-**BSIT Student | IT Support @ Sterling Global | Lead Full Stack Developer**
+**BSIT Student | IT Support @ Sterling Global | Developer**
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="600" />
