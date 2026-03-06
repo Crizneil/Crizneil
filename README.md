@@ -9,14 +9,6 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Senior BSIT Student** with a focus on Full Stack Development.
-- 🛠️ **IT Support Specialist** at Sterling Global Call Center, bridging technical support and software engineering.
-- 💡 **Logical & Creative Thinker**: I enjoy solving complex problems with clean, efficient code.
-- 🤝 **Proven Leader**: Passionate about leading development teams to deliver high-quality capstone projects.
-
----
-
 ### 💼 Featured Capstone Project
 
 <table align="center">
