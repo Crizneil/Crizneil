@@ -9,7 +9,7 @@
 
 ---
 ### 🛠️ My Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,js,git,vscode&perline=9" />
   </a>
