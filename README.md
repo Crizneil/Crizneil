@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There! I'm Criz 👋 👨‍💻
+# Hi There! I'm Criz 
 **BSIT Student | IT Support @ Sterling Global | Developer**
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 ---
-### 🛠️ My Tech Stack
+###  My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,js,git,vscode&perline=9" />
@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 Featured Capstone Project
+### Featured Capstone Project
 
 <table align="center">
   <tr>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://www.facebook.com/share/16ZZ7svWmG/" target="_blank">
@@ -56,7 +56,7 @@
 
 ---
 
-### ⚙️ GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Criz's GitHub Stats" />
   <br/>
@@ -65,7 +65,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
