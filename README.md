@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Professional Logo Collage Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Crizneil/Crizneil/main/assets/banner.png" alt="Crizneil Banner" width="100%" />
-</p>
+
 
 <!-- Typing Animation Intro -->
 <p align="center">
