@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="assets/Bottom_up.svg" width="100%" />
-
-
 <!-- Professional Logo Collage Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Crizneil/Crizneil/main/assets/banner.png" alt="Crizneil Banner" width="100%" />
