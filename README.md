@@ -27,9 +27,6 @@ Detailed information regarding my projects, professional background, and technic
 
 ### Metrics & Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Crizneil/Crizneil/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=10B981&text_color=FFFFFF&title_color=10B981" width="48%" />
