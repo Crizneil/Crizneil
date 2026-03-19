@@ -1,6 +1,15 @@
 <div align="center">
 
-<!-- Banner Section -->
+<img src="assets/Bottom_up.svg" width="100%" />
+
+<!-- Header Badges -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Crizneil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+    <img src="https://img.shields.io/github/followers/Crizneil?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Crizneil?label=Total+Stars&style=flat-square&color=blueviolet" alt="Stars" />
+</p>
+
+<!-- Professional Logo Collage Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Crizneil/Crizneil/main/assets/banner.png" alt="Crizneil Banner" width="100%" />
 </p>
@@ -8,7 +17,7 @@
 <!-- Typing Animation Intro -->
 <p align="center">
   <a href="https://github.com/Crizneil">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7D44&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Criz;BSIT+Student+%7C+IT+Support;Full-Stack+Developer;Digital+Artist+%26+Game+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7D44&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Criz;Tech+Support+Specialist;Web+Developer;Digital+Artist+%26+Game+Dev" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,68 +25,52 @@
 
 ### 🚀 About Me
 
-I am **Crisneil Sanchez Bucio**, a dedicated **BSIT Student** and **IT Support** professional at **Sterling Global**. My passion lies in bridging the gap between technical DevOps engineering and creative game development. I thrive on building tools that simplify workflows and creating immersive experiences inspired by Filipino culture.
+I am **Crisneil Sanchez Bucio**, a dedicated **Tech Support Specialist** and **Web Developer**. Currently pursuing my BSIT degree and working in IT Support at **Sterling Global**, I specialize in building robust web applications and providing high-level technical solutions. I bridge the gap between technical operations and creative development.
 
 ---
 
 ### 💻 My Tech Stack
 
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **Domain Knowledge** | ![Tech Support](https://img.shields.io/badge/Tech-Support-4C8CBF?style=flat-square) ![Web Design](https://img.shields.io/badge/Web-Design-FF6600?style=flat-square) ![IT Operations](https://img.shields.io/badge/IT-Operations-01D277?style=flat-square) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
+
+---
+
+### 📈 GitHub Activity & Metrics
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,js,html,css,bootstrap,git,vscode,figma&perline=11" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Crizneil/Crizneil/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crizneil&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crizneil&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crizneil&theme=radical&hide_border=true&hide_title=true&area=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Crizneil/Crizneil/main/assets/maykawayan_art.png" alt="Maykawayan" width="100%" style="border-radius: 12px;" />
-      <h3>🎮 Maykawayan</h3>
-      <p>An immersive game inspired by Filipino folklore. Defeat mythical monsters to protect the town of Maykawayan.</p>
-      <a href="https://github.com/Crizneil/Maykawayan">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🛠️ criztools</h3>
-      <p>A minimalist DevOps CLI wrapper that transforms manual workspace setup into a lightning-fast dashboard.</p>
-      <div style="margin: 10px 0;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/DevOps-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-      </div>
-      <a href="https://github.com/Crizneil/criztools">
-         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-       <details>
-        <summary><b>🐾 View PawCare Capstone</b></summary>
-        <p>A web-based pet management system for the Municipal Veterinary Office of Meycauayan.</p>
-        <a href="https://github.com/Crizneil/pawcare-capstone">
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        </a>
-      </details>
-    </td>
-  </tr>
-</table>
+### 🏆 Achievement Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Crizneil&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crizneil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crizneil&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="github-metrics.svg" alt="Metrics" width="100%">
 
 ---
 
@@ -102,5 +95,7 @@ I am **Crisneil Sanchez Bucio**, a dedicated **BSIT Student** and **IT Support**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
+
+<img src="assets/Bottom_down.svg" width="100%" />
 
 </div>
