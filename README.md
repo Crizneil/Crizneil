@@ -2,12 +2,6 @@
 
 <img src="assets/Bottom_up.svg" width="100%" />
 
-<!-- Header Badges -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Crizneil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
-    <img src="https://img.shields.io/github/followers/Crizneil?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/Crizneil?label=Total+Stars&style=flat-square&color=blueviolet" alt="Stars" />
-</p>
 
 <!-- Professional Logo Collage Banner -->
 <p align="center">
