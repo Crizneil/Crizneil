@@ -9,7 +9,7 @@
 ---
 
 ### Portfolio & Experience
-Detailed information regarding my projects, professional background, and technical expertise can be found on my official portfolio website:
+MY detailed information can be found on my official portfolio website:
 **[cris-portfolio-official.vercel.app](https://cris-portfolio-official.vercel.app/)**
 
 ---
