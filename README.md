@@ -9,7 +9,7 @@
 ---
 
 ### Portfolio & Experience
-MY detailed information can be found on my official portfolio website:
+My detailed information can be found on my official portfolio website:
 **[cris-portfolio-official.vercel.app](https://cris-portfolio-official.vercel.app/)**
 
 ---
