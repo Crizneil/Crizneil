@@ -10,7 +10,7 @@
 
 <h3 style="color:#87CEEB;">Portfolio & Experience</h3>
 <span style="color:#87CEEB;">My detailed information can be found on my official portfolio website:</span><br>
-**[<span style="color:#87CEEB;">(https://cris-portfolio-official.vercel.app/)
+[<span style="color:#87CEEB;">(https://cris-portfolio-official.vercel.app/)
 
 ---
 
