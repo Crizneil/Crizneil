@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crizneil&theme=tokyonight&hide_border=true&fire=87CEEB&sideNums=FFFFFF&sideLabels=87CEEB" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crizneil&theme=tokyonight&hide_border=true&hide_title=true&area=true&color=87CEEB" width="48%" />
 </p>
 
 ---
