@@ -17,7 +17,7 @@
 <h3 style="color:#87CEEB;">Metrics & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=87CEEB&text_color=FFFFFF&title_color=87CEEB" width="48%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crizneil&theme=tokyonight&hide_border=true&fire=87CEEB&sideNums=FFFFFF&sideLabels=87CEEB" width="48%" />
 </p>
 
 <p align="center">
