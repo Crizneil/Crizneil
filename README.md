@@ -120,22 +120,6 @@ I'm currently building my experience toward becoming a **Network Engineer**.
 
 ---
 
-## `// CURRENT MISSION`
-
-```text
-IT SUPPORT
-     │
-     ▼
-NETWORK SUPPORT  ◄──────── CURRENT
-     │
-     ▼
-NETWORK ENGINEER
-     │
-     ▼
-NETWORK INFRASTRUCTURE
-     │
-     ▼
-NETWORK SECURITY
 ```
 
 ```text
@@ -148,25 +132,8 @@ NETWORK SECURITY      [██████████████░░░░░
 
 ---
 
-## `// PROJECTS`
-
-### ⚡ NetTool
-
-A personal **Network Support CLI toolkit** built with Python.
-
-```text
-┌──────────────────────────────────────────┐
-│              ⚡ NETTOOL                  │
-├──────────────────────────────────────────┤
-│  [1] PPPoE / Dalo IP Converter           │
-│  [2] Static IP Converter                 │
-│  [3] Internet Diagnostics                │
-│  [4] Speed Test                          │
-│  [5] Concern Tracker                     │
-└──────────────────────────────────────────┘
 ```
 
-Built to make repetitive network-support tasks faster from the terminal.
 
 ---
 
