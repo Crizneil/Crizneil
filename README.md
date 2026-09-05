@@ -1,9 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Crizneil">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Crizneil+%F0%9F%91%8B;IT+Network+Support;Network+Monitoring+%7C+Troubleshooting;Infrastructure+%7C+Technical+Support;Future+Network+Engineer+%F0%9F%94%8C" />
-
 </a>
 
 <br>
@@ -12,19 +10,15 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:00D9FF&height=170&section=header&text=CRIZNEIL&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:00D9FF&height=150&section=header&text=CRIZNEIL&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-### `NETWORK STATUS:  ONLINE`
+### `NETWORK STATUS: ● ONLINE`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  USER       : Crizneil                               │
-│  ROLE       : IT Network Support                     │
-│  STATUS     : ● ONLINE                               │
-│  FOCUS      : Network & Infrastructure               │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+USER        : Crizneil
+ROLE        : IT Network Support
+FOCUS       : Network & Infrastructure
+STATUS      : ● ONLINE
 ```
 
 ---
@@ -33,34 +27,9 @@
 
 I'm **Crizneil**, an **IT Network Support professional** focused on network troubleshooting, monitoring, technical support, and infrastructure.
 
-I work with network and remote-support tools to diagnose connectivity issues, monitor services, assist users, and help keep network operations stable.
+I work with network and remote-support tools to diagnose connectivity issues, monitor services, assist users, and help maintain stable network operations.
 
-I'm currently building my experience toward becoming a **Network Engineer**.
-
-```text
-                    ┌──────────────┐
-                    │   INTERNET   │
-                    │      ☁       │
-                    └──────┬───────┘
-                           │
-                      ╔════▼════╗
-                      ║ NETWORK ║
-                      ║  CORE   ║
-                      ╚════╤════╝
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-         ┌────▼────┐               ┌────▼────┐
-         │ ROUTER  │               │ FIREWALL│
-         └────┬─────┘               └────┬────┘
-              │                          │
-              └───────────┬──────────────┘
-                          │
-                     ┌────▼────┐
-                     │  USERS  │
-                     │ ONLINE  │
-                     └─────────┘
-```
+Currently building my experience toward becoming a **Network Engineer**.
 
 ---
 
@@ -82,94 +51,15 @@ I'm currently building my experience toward becoming a **Network Engineer**.
 
 </p>
 
-### `NETWORKING`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  🌐 TCP/IP                                  │
-│  🌐 IPv4 / Subnetting                       │
-│  🌐 DNS / DHCP                              │
-│  🌐 PPPoE                                   │
-│  🌐 FTTH                                    │
-│  🌐 Routing & Switching                     │
-│  🌐 Connectivity Troubleshooting            │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-### `MONITORING`
-
-```text
-[DALO]       ● NETWORK MONITORING
-[HKCONNECT]  ● DEVICE / SERVICE MONITORING
-[pfSense]    ● NETWORK / FIREWALL
-[Ruijie]     ● NETWORK INFRASTRUCTURE
-```
-
-### `REMOTE SUPPORT`
-
-```text
-[AnyDesk]    ● REMOTE ASSISTANCE
-[Windows]    ● CLIENT SUPPORT
-[Linux]      ● SYSTEM / NETWORK TOOLS
-[Wireshark]  ● PACKET ANALYSIS
-```
-
----
-
----
-
-```
-
-```text
-NETWORK SUPPORT       [████████████████████]  ONLINE
-TROUBLESHOOTING       [███████████████████░]  ACTIVE
-MONITORING            [██████████████████░░]  ACTIVE
-ROUTING & SWITCHING   [████████████████░░░░]  LEARNING
-NETWORK SECURITY      [██████████████░░░░░░]  LEARNING
-```
-
----
-
-```
-
-
----
-
-## `// GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Crizneil&theme=tokyonight&hide_border=true&background=0F172A&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
-
-</div>
-
 ---
 
 ## `// CONTRIBUTION NETWORK`
 
-<div align="center">
+<p align="center">
 
-```text
-       ╔════════════════════════════════════════════╗
-       ║                                            ║
-       ║     ●────●────●────●────●────●────●       ║
-       ║     │    │    │    │    │    │    │       ║
-       ║     ●────●────●────●────●────●────●       ║
-       ║     │    │    │    │    │    │    │       ║
-       ║     ●────●────●────●────●────●────●       ║
-       ║                                            ║
-       ║       >>> PACKETS FLOWING >>>             ║
-       ║                                            ║
-       ╚════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/Crizneil/Crizneil/output/github-contribution-grid-snake.svg" alt="Contribution Network Animation" width="90%"/>
 
-<img src="https://raw.githubusercontent.com/Crizneil/Crizneil/output/github-contribution-grid-snake.svg" alt="Contribution Network Animation" />
-
-</div>
+</p>
 
 ---
 
@@ -188,18 +78,14 @@ NETWORK SECURITY      [██████████████░░░░░
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║        NETWORK STATUS : ● OPERATIONAL       ║
-║                                              ║
-║        PACKETS       : >>> FLOWING >>>      ║
-║        MONITORING    : ● ACTIVE             ║
-║        CONNECTIVITY  : ● STABLE             ║
-║        SUPPORT      : ● ONLINE              ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+NETWORK STATUS : ● OPERATIONAL
+
+PACKETS       : >>> FLOWING >>>
+MONITORING    : ● ACTIVE
+CONNECTIVITY  : ● STABLE
+SUPPORT       : ● ONLINE
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0369A1,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0369A1,100:0F172A&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
