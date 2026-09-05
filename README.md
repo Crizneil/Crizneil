@@ -44,16 +44,6 @@ Currently building my experience toward becoming a **Network Engineer**.
 
 ---
 
-## `// CONTRIBUTION NETWORK`
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Crizneil/Crizneil/output/github-contribution-grid-snake.svg" alt="Contribution Network Animation" width="90%"/>
-
-</p>
-
----
-
 ## `// PORTFOLIO`
 
 <p align="center">
