@@ -12,15 +12,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:00D9FF&height=150&section=header&text=CRIZNEIL&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-### `NETWORK STATUS: ● ONLINE`
-
-```text
-USER        : Crizneil
-ROLE        : IT Network Support
-FOCUS       : Network & Infrastructure
-STATUS      : ● ONLINE
-```
-
 ---
 
 ## `// ABOUT ME`
